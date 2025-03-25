@@ -1,4 +1,4 @@
-User Management System
+# User Management System
 
 This is a User Management System designed to handle user authentication and authorization with a dual-role system comprising administrators and regular users. The application serves as a secure platform for managing user access and permissions through a robust authentication mechanism that ensures safe login functionality with password protection and session handling. The system features two distinct interfaces: an admin dashboard and a user dashboard, each with its own set of functionalities and access levels.
 
