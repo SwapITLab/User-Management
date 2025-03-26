@@ -18,3 +18,6 @@ The system is built with scalability in mind, serving as a solid foundation that
 
 3. User Dashboard
 ![image](https://github.com/user-attachments/assets/582ee594-8d9d-4f1c-ac7e-2a4b6bad4ff2)
+
+
+Note: This is a demo project.
