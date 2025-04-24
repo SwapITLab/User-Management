@@ -7,8 +7,6 @@ Dual Role System: Distinct interfaces for Administrators and Regular Users, each
 
 Admin Dashboard: Powerful management tools for admins to add, delete, and assign roles to users, with a unique user impersonation feature for efficient testing and troubleshooting.
 
-Secure Login & Password Protection: Implements strong security protocols to ensure safe login functionality with password protection and session handling.
-
 Role-based Access Control: Protected routes ensure that users only access areas according to their roles.
 
 Scalable Architecture: Easily extendable for future enhancements and adaptable to meet evolving needs.
