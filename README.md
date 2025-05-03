@@ -24,7 +24,7 @@ Assign user roles
 
 User Dashboard 👤
 The user dashboard provides a personalized and secure interface for regular users, with appropriate access restrictions based on their role.
-![image](https://github.com/user-attachments/assets/ab78cd44-07c0-4d86-a0bb-53d32b01edbf)
+![image](https://github.com/user-attachments/assets/11a137ef-9248-4053-91cd-19e641a7343d)
 
 
 Login Page 🔐
